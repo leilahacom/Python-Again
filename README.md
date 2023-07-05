@@ -26,9 +26,9 @@ Source: [github](https://github.com/leilahacom/freecodecamp-intro-to-pandas)
 
 My note-taking: [notion- python pandas](https://www.notion.so/leilaha/Python-Pandas-94b4f23d1643483c9e6e0e89a4be257b) 
 
-**Step 1️⃣**: learn fundamental 
+**Step** 1️⃣: learn fundamental 
 
-**Step 2️⃣**: do small projects
+**Step** 2️⃣: do small projects
 
 Stock Market Analysis:
 You can use pandas to analyze stock market data and compare different stocks. Using pandas, you can calculate moving averages, understand the correlation between different stocks, visualize the stock price distribution, and much more.
