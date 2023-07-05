@@ -24,7 +24,7 @@ Environment: [Jupyter Lab](https://jupyter.org/try-jupyter/lab/?path=notebooks%2
 Source: [github](https://github.com/leilahacom/freecodecamp-intro-to-pandas)
 
 
-My note taking: [notion- python pandas](https://www.notion.so/leilaha/Python-Pandas-94b4f23d1643483c9e6e0e89a4be257b) 
+My note-taking: [notion- python pandas](https://www.notion.so/leilaha/Python-Pandas-94b4f23d1643483c9e6e0e89a4be257b) 
 
 **Step 1️⃣**: learn fundamental 
 
