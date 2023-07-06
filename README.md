@@ -33,7 +33,11 @@ My note-taking: [notion- python pandas](https://www.notion.so/leilaha/Python-Pan
 - Stock Market Analysis:
 You can use pandas to analyze stock market data and compare different stocks. Using pandas, you can calculate moving averages, understand the correlation between different stocks, visualize the stock price distribution, and much more.
 
-- sample project [Keith Youtube](https://www.youtube.com/watch?v=eMOA1pPVUc4&ab_channel=KeithGalli) 
+- sample project [Keith Youtube](https://www.youtube.com/watch?v=eMOA1pPVUc4&ab_channel=KeithGalli)
+
+  + [data source](https://github.com/leilahacom/Pandas-Data-Science-Tasks)/ github
+
+  +
 
 ## Series
 
