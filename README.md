@@ -8,6 +8,8 @@ Source [FreeCodeCamp Youtube](https://www.youtube.com/watch?v=r-uOLxNrNk8&t=41s&
 
 Environment: [Jupyter Lab](https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb) 
 
+learn > retrieve 
+
 ---
 # Python Basic 
 
@@ -37,7 +39,7 @@ You can use pandas to analyze stock market data and compare different stocks. Us
 
   + [data source](https://github.com/leilahacom/Pandas-Data-Science-Tasks)/ github
 
-  +
+
 
 ## Series
 
