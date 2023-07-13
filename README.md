@@ -25,10 +25,11 @@ learn > retrieve
 
 Source: [github](https://github.com/leilahacom/freecodecamp-intro-to-pandas)
 
-
 My note-taking: [notion- python pandas](https://www.notion.so/leilaha/Python-Pandas-94b4f23d1643483c9e6e0e89a4be257b) 
 
 **Step** 1️⃣: learn fundamental 
+
+Pandas Basic learning > [a python file](https://github.com/leilahacom/PandasPython/blob/main/Pandas%20Basic.ipynb)
 
 **Step** 2️⃣: do small projects
 
