@@ -40,7 +40,7 @@ You can use pandas to analyze stock market data and compare different stocks. Us
 
 [Keith Youtube](https://www.youtube.com/watch?v=eMOA1pPVUc4&ab_channel=KeithGalli)
 
-  + [data source](https://github.com/leilahacom/Pandas-Data-Science-Tasks)/ github
+[data source](https://github.com/leilahacom/Pandas-Data-Science-Tasks)/ github
 
 - Merge 12 csv files into 1
 
